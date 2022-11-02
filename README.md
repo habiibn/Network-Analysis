@@ -1,4 +1,3 @@
-# Network-Analysis
 # **Laporan Proyek Machine Learning - Habib Nurkholis M004X0007**
 ## **Domain Proyek**
 Pada 2021 terdapat setidaknya 3.75 juta penyandang tunanetra di Indonesia yang berarti lebih dari 1.5% populasi penduduk Indonesia. Jumlah tersebut terbilang sangat signifikan namun banyak penyandang tunanetra yang masih belum bisa menjadi bagian penuh dari masyarakat. Salah satu faktor yang menyebabkan kesenjangan tersebut adalah sulitnya komunikasi antara penyandang tunanetra dan non disabilitas. 
